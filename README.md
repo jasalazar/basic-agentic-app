@@ -1,7 +1,7 @@
 # basic-agentic-app
 Previously, I built a CLI chatbot using LangChain and Ollama: https://github.com/jasalazar/basic-cli-chatbot  
   
-Now, I built a basic single-agent chatbot app with meant for the UI, also with LangChain but powered by Anthropic LLMs.
+Now, I built a basic single-agent chatbot app over a single page UI, also with LangChain but powered by Anthropic LLMs.
 ## Assumptions
 -You already have Python, Node.js and npm installed  
 -You have an Anthropic API key with credits loaded
